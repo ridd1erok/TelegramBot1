@@ -1,6 +1,6 @@
 INSTALLING:
   
-  git clone https://github.com/ridd1erok/TelegramBot1
+  git clone https://github.com/ridd1erok/TelegramBot1.git
   python -m pip install -r requirements.txt
 
 WORKING:
